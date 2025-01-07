@@ -1,5 +1,5 @@
 # 📌 About Me:
-🔭i’m currently working on finishing my studies at FSCE Skopje.<br>⚡i’m interested in Data engineering, Data Science, Data Analysis, Machine Learning and AI.<br>🌱i’m currently learning Database, Linear algebra, Web programming, Parallel Distributed Processing.
+🔭i’m currently working on finishing my studies at FSCE Skopje.<br>⚡i’m interested in Data engineering, Data Science, Data Analysis, Machine Learning and AI.<br>🌱i’m currently learning Database, Linear algebra and Parallel Distributed Processing.
 
 
 # 💻 Tech Stack:
