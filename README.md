@@ -1,15 +1,65 @@
-# 📌 About Me:
-🔭i’m currently working on finishing my studies at FSCE Skopje.<br>⚡i’m interested in Data engineering, Data Science, Data Analysis, Machine Learning and AI.<br>🌱i’m currently learning Database, Linear algebra and Parallel Distributed Processing.
+ 👋 Martin Stamenov – AI & Data Enthusiast
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stamenovmartin&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=stamenovmartin&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stamenovmartin&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+Welcome to my portfolio! I’m Martin, a final-year Computer Science and Engineering student at Ss. Cyril and Methodius University. My work bridges the fields of applied AI, data engineering, and research in automated machine learning. I enjoy solving open-ended challenges and building systems that combine intelligence, automation, and creativity.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stamenovmartin&icon=3&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔍 About Me
+- 🎓 Final-year BSc student in Computer Science & Engineering @ FINKI
+- 🛠️ Focus areas: Machine Learning, Deep Learning, AutoML, Data Engineering
+- 🧠 Strong interest in GenAI applications for real-world problems
+- 🔄 Actively combining engineering practice with academic research
+
+---
+
+## 🧠 AI & Machine Learning Projects
+
+### 🤖 Transformer-Based Chatbot for Telecom Support *(Internship Project – Telekom MK)*
+Fine-tuned a Hugging Face transformer model using internal telecom data to assist in building a chatbot that automates technical support interactions.
+- Custom training pipeline with domain-specific examples
+- Integrated model into chatbot interface prototype
+- Built for internal use with potential for customer-facing deployment
+
+### 🔬 AutoML Research (Ongoing)
+**Institution:** Macedonian Academy of Sciences and Arts (MANU)
+- Researching hyperparameter optimization and scalable training strategies in neural networks
+- Focusing on automation and experimentation in model design
+- Current work centers on evaluating AutoML techniques in deep learning
+
+---
+
+## 📡 Projects
+
+### 📊 Real-Time Telecom Infrastructure Monitoring *(Internship Project – Telekom MK)*
+- Designed & deployed Apache Airflow pipelines to process millions of telemetry records from telecom systems
+- Integrated Oracle and PostgreSQL data sources with automated retries and scheduling
+- Used Dockerized environments for PostgreSQL deployment and tuning
+
+### 📈 DWDM Network Monitoring Dashboard
+- Built real-time Grafana dashboards for optical layer (DWDM) network monitoring
+- Implemented secure SSH-based data polling from network controllers
+- Configured Microsoft Teams alerting for key metrics
+
+---
+
+## 🎓 Education
+**BSc in Computer Science and Engineering**  
+Ss. Cyril and Methodius University – FINKI  
+*Expected Graduation: 2026*  
+**Focus Areas:** Machine Learning, Reinforcement Learning, AI, NLP, Software Engineering, CNNs, GNNs
+
+---
+
+## 💻 Tech Stack
+- **Languages:** Python, SQL
+- **Frameworks/Libraries:** Hugging Face, PyTorch, scikit-learn, Pandas
+- **Tools:** Docker, Apache Airflow, Grafana, Git
+- **Concepts:** MLOps, AutoML, Prompt Engineering, Data Pipelines
+
+---
+
+## 📫 Contact
+- Email: martin.stamenov03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/martin-stamenov-250ab5200/
+
+Feel free to connect or reach out – I’m always open to learning, collaborating, or discussing interesting AI ideas!
