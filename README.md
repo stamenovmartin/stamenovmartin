@@ -24,7 +24,7 @@ Explored the use of transformer models in internal tools to improve automation a
 - Researching practical applications of AutoML and scalable optimization methods in deep learning
 - Working with CNNs and GNNs to explore model efficiency and experimentation workflows
 
-### ⚽ Match Outcome Prediction (In Progress)
+### ⚽ Match Outcome Prediction (on hold)
 Developing a supervised learning model to predict football match outcomes based on historical results and team performance statistics.
 - Web scraping, data preprocessing, feature extraction, and model selection
 - Evaluating accuracy and feature importance for real-world match prediction
