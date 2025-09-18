@@ -6,9 +6,9 @@ Welcome to my portfolio! I’m Martin, a final-year Computer Science and Enginee
 
 ## 🔍 About Me
 - 🎓 Final-year BSc student in Computer Science & Engineering @ FINKI
-- 🛠️ Focus areas: AI Engineering, Machine Learning, Deep Learning, AutoML, Data Engineering
+- 🛠️ Focus areas: AI Engineering, Machine Learning, Deep Learning, Data Engineering
 - 🧠 Strong interest in GenAI applications for real-world problems
-- 🔄 Actively combining engineering practice with academic research
+- 
 
 ---
 
