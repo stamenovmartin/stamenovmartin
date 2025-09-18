@@ -19,10 +19,7 @@ Explored the use of transformer models in internal tools to improve automation a
 - Experimented with Hugging Face transformers and prompting strategies
 - Focused on domain-specific adaptation and chatbot prototype integration
 
-### 🔬 Applied Research in AutoML (Ongoing)
-**Institution:** Macedonian Academy of Sciences and Arts (MANU)
-- Researching practical applications of AutoML and scalable optimization methods in deep learning
-- Working with CNNs and GNNs to explore model efficiency and experimentation workflows
+
 
 ### ⚽ Match Outcome Prediction (on hold)
 Developing a supervised learning model to predict football match outcomes based on historical results and team performance statistics.
