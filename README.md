@@ -1,14 +1,6 @@
-# 👋 Martin Stamenov – AI & Data Enthusiast
+# Martin Stamenov – CompSci Student at FSCE
 
-Welcome to my portfolio! I’m Martin, a final-year Computer Science and Engineering student at Ss. Cyril and Methodius University. My work bridges the fields of applied AI, data engineering, and research in automated machine learning. I enjoy solving open-ended challenges and building systems that combine intelligence, automation, and creativity.
-
----
-
-## 🔍 About Me
-- 🎓 Final-year BSc student in Computer Science & Engineering @ FINKI
-- 🛠️ Focus areas: AI Engineering, Machine Learning, Deep Learning, Data Engineering
-- 🧠 Strong interest in GenAI applications for real-world problems
-- 
+Welcome to my portfolio! I’m Martin, a final-year Computer Science and Engineering student at Ss. Cyril and Methodius University. My work bridges the fields of AI, ML and DS. I enjoy solving open-ended challenges and building systems that combine intelligence, automation, and creativity.
 
 ---
 
@@ -55,7 +47,7 @@ Ss. Cyril and Methodius University – FINKI
 ---
 
 ## 💻 Tech Stack
-- **Languages:** Python, SQL, Bash
+- **Languages:** Python, SQL
 - **Frameworks/Libraries:** Hugging Face, PyTorch, scikit-learn, Pandas
 - **Tools:** Docker, Apache Airflow, Grafana, Git
 - **Concepts:** MLOps, AutoML, Prompt Engineering, Data Pipelines
